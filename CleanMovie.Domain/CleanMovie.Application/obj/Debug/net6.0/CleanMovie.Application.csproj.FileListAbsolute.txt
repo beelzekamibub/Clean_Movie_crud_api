@@ -1,0 +1,15 @@
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Application.deps.json
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Application.dll
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Application.pdb
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Domain.dll
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\bin\Debug\net6.0\CleanMovie.Domain.pdb
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.csproj.AssemblyReference.cache
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.AssemblyInfoInputs.cache
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.AssemblyInfo.cs
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.csproj.CopyComplete
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.dll
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\refint\CleanMovie.Application.dll
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\CleanMovie.Application.pdb
+C:\Users\chaitanya.sharma2\source\repos\Clean\CleanMovie.Domain\CleanMovie.Application\obj\Debug\net6.0\ref\CleanMovie.Application.dll
